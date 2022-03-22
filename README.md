@@ -1,4 +1,4 @@
-# BobTheBuilder_2018
+# BobTheBuilder-2018
 
 Bob The Builder is a handy build tool that pulls all build-related windows into one along with a few extra features.
 
